@@ -6,11 +6,11 @@ I used a random forest classifier to predict the quality of a wine with a 66.5% 
 
 -------------------------
 
-Installation
+Contents
 -------------------------
 
-### Download the data
-* Download 'winequality-red.csv' from the 'DATA' folder.
+### Wine_Quality_Predictor.ipynb
+* Jupyter notebook containing analysis, visualizations, and prediction results.
 
-### Install the requirements
-* Install the requirements using `pip install -r requirements.txt`.
+### winequality-red.csv
+* Dataset used in the above wine quality predictor file.
