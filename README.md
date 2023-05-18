@@ -1,4 +1,4 @@
-# Wine-quality-indicators
+# Wine Quality Prediction
 -------------------------
 
 This repo contans the code for a machine learning model that will classify and predict wine quality based on 11 different factors. 
