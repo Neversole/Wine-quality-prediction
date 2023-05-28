@@ -2,7 +2,7 @@
 -------------------------
 
 This repo contans the code for a machine learning model that will classify and predict wine quality based on 11 different factors. 
-A random forest classifier was implemented to predict the quality of a wine. An exploratory analysis was also performedto determine which factors will have the largest impact on quality.
+A random forest classifier was implemented to predict the quality of a wine. An exploratory analysis was also performed to determine which factors will have the largest impact on quality.
 
 -------------------------
 
